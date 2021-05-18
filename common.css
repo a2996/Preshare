@@ -39,7 +39,6 @@ h1#logo img{
     width: 100%;
 }
 
-
 nav#topmenu{
     width: 170px; height: 14px; position: absolute; right: 30px; top: 35px; text-align: right;
 }
@@ -98,7 +97,6 @@ ul#mainmenu_list>li>a.selected_menu{
 
 div#menu_bar{
     width: 110px; height: 4px; background:  #ffb9ae; position:absolute; left: 0px; top: 32px; display: none;
-
 }
 
 
@@ -127,8 +125,6 @@ ul#mainmenu_list>li:nth-child(5) .submenu_list>li{
 ul.submenu_list>li>a{
     font: normal 0.75rem/25px "Noto Sans KR"; text-decoration: none; color:#545454; 
 }
-
-
 
 /* ul.categori{
     width:800px; height:50px; position: absolute; left:56%; top:0px; 
