@@ -13,15 +13,6 @@ div#header_wrap::before{
     width: 26%;
 }
 
-
-
-
-
-
-
-
-
-
 }
 @media screen and (max-width:980px) {
     div#header_wrap::before{
