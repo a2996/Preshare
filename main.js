@@ -15,11 +15,6 @@ document.addEventListener('DOMContentLoaded',()=>{
 })
 
 
-
-
-
-
-
 function nearProduct(){
     
     const checkList=document.querySelectorAll('#check_list>li')
@@ -44,18 +39,12 @@ function nearProduct(){
         }
         
         
-        
         selectedMenu=this;
         selectedMenu.classList.add('check_list_selected')
 
        
     }
 }
-
-
-
-
-
 
 
 
