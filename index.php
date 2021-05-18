@@ -327,9 +327,6 @@ include_once(G5_PATH.'/head.php');
                         </li>
 
                     </ul> 
-
-
-
                     
                   
                 </section>
