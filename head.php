@@ -51,7 +51,6 @@ include_once(G5_LIB_PATH.'/popular.lib.php');
             <li><a href="<?php echo G5_BBS_URL ?>/login.php"><i class="fa fa-user-circle-o" aria-hidden="true"></i> 로그인</a></li>
             <?php }  ?>
 
-       
           </ul>
       </nav>
       <nav id="mainmenu">
